@@ -32,7 +32,7 @@ The project is a web forum that allows users to communicate with each other by c
 
 1. **Clone the repository**:
    ```sh
-   git clone https://learn.zone01kisumu.ke/git/togondol/real-time-forum-typing-in-progress
+   git clone https://learn.zone01kisumu.ke/git/allkamau/real-time-forum.git
    cd real-time-forum-typing-in-progress
    ```
 
