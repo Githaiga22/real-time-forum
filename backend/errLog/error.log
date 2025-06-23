@@ -1,0 +1,37 @@
+ERROR	2025/06/09 11:05:20 middleware_auth.go:31: session token not found: http: named cookie not present
+ERROR	2025/06/09 11:05:20 middleware_auth.go:31: session token not found: http: named cookie not present
+ERROR	2025/06/09 11:05:20 middleware_auth.go:31: session token not found: http: named cookie not present
+ERROR	2025/06/09 11:05:20 auth.go:159: session token not found: http: named cookie not present
+ERROR	2025/06/09 11:05:20 middleware_auth.go:31: session token not found: http: named cookie not present
+ERROR	2025/06/09 11:08:25 middleware_auth.go:31: session token not found: http: named cookie not present
+ERROR	2025/06/09 11:08:25 middleware_auth.go:31: session token not found: http: named cookie not present
+ERROR	2025/06/09 11:08:25 middleware_auth.go:31: session token not found: http: named cookie not present
+ERROR	2025/06/09 11:08:25 auth.go:159: session token not found: http: named cookie not present
+ERROR	2025/06/09 11:08:25 middleware_auth.go:31: session token not found: http: named cookie not present
+ERROR	2025/06/09 11:10:41 notifications.go:315: user list WebSocket disconnected: websocket: close 1001 (going away)
+ERROR	2025/06/09 11:10:41 notifications.go:315: user list WebSocket disconnected: websocket: close 1001 (going away)
+ERROR	2025/06/09 11:10:41 notifications.go:221: Error sending update: websocket: close sent
+ERROR	2025/06/09 11:10:41 notifications.go:221: Error sending update: websocket: close sent
+ERROR	2025/06/09 11:10:44 notifications.go:315: user list WebSocket disconnected: websocket: close 1001 (going away)
+ERROR	2025/06/09 11:10:44 notifications.go:315: user list WebSocket disconnected: websocket: close 1001 (going away)
+ERROR	2025/06/09 11:10:44 notifications.go:221: Error sending update: websocket: close sent
+ERROR	2025/06/09 11:10:44 notifications.go:221: Error sending update: websocket: close sent
+ERROR	2025/06/09 11:10:46 notifications.go:315: user list WebSocket disconnected: websocket: close 1001 (going away)
+ERROR	2025/06/09 11:10:46 notifications.go:315: user list WebSocket disconnected: websocket: close 1001 (going away)
+ERROR	2025/06/09 11:10:46 notifications.go:315: user list WebSocket disconnected: websocket: close 1001 (going away)
+ERROR	2025/06/09 11:10:46 notifications.go:221: Error sending update: websocket: close sent
+ERROR	2025/06/09 11:10:46 notifications.go:221: Error sending update: websocket: close sent
+ERROR	2025/06/09 11:10:46 notifications.go:221: Error sending update: websocket: close sent
+ERROR	2025/06/09 14:35:31 main.go:43: listen tcp :8080: bind: address already in use
+ERROR	2025/06/23 17:08:47 middleware_auth.go:31: sql.ErrNoRows
+ERROR	2025/06/23 17:08:47 middleware_auth.go:31: sql.ErrNoRows
+ERROR	2025/06/23 17:08:47 middleware_auth.go:31: sql.ErrNoRows
+ERROR	2025/06/23 17:08:47 auth.go:159: no user found for the session token
+ERROR	2025/06/23 17:08:47 middleware_auth.go:31: sql.ErrNoRows
+ERROR	2025/06/23 17:08:47 middleware_auth.go:31: sql.ErrNoRows
+ERROR	2025/06/23 17:08:47 middleware_auth.go:31: sql.ErrNoRows
+ERROR	2025/06/23 17:08:47 middleware_auth.go:31: sql.ErrNoRows
+ERROR	2025/06/23 17:09:14 auth.go:72: user not found: sql: no rows in result set
+ERROR	2025/06/23 17:09:24 auth.go:72: user not found: sql: no rows in result set
+ERROR	2025/06/23 17:09:26 auth.go:72: user not found: sql: no rows in result set
+ERROR	2025/06/23 17:09:27 auth.go:72: user not found: sql: no rows in result set
