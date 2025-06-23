@@ -1,0 +1,41 @@
+INFO	2025/06/09 11:04:50 main.go:23: database initialized successfully
+INFO	2025/06/09 11:04:50 main.go:39: Server starting on port http://localhost:8080/
+INFO	2025/06/09 11:07:39 notifications.go:309: [{1 robinsoncodes true }]
+INFO	2025/06/09 11:07:39 notifications.go:309: [{1 robinsoncodes true }]
+INFO	2025/06/09 11:09:27 notifications.go:309: [{1 robinsoncodes true } {2 buffett true }]
+INFO	2025/06/09 11:09:27 notifications.go:309: [{1 robinsoncodes true } {2 buffett true }]
+INFO	2025/06/09 11:10:41 notifications.go:309: [{2 buffett true } {1 robinsoncodes true }]
+INFO	2025/06/09 11:10:41 notifications.go:309: [{2 buffett true } {1 robinsoncodes true }]
+INFO	2025/06/09 11:10:41 notifications.go:309: [{2 buffett true } {1 robinsoncodes true }]
+INFO	2025/06/09 11:10:44 notifications.go:309: [{1 robinsoncodes true } {2 buffett true }]
+INFO	2025/06/09 11:10:44 notifications.go:309: [{1 robinsoncodes true } {2 buffett true }]
+INFO	2025/06/09 11:10:44 notifications.go:309: [{1 robinsoncodes true } {2 buffett true }]
+INFO	2025/06/09 11:10:46 notifications.go:309: [{1 robinsoncodes true } {2 buffett true }]
+INFO	2025/06/09 11:10:46 notifications.go:309: [{1 robinsoncodes true } {2 buffett true }]
+INFO	2025/06/09 11:10:46 notifications.go:309: [{1 robinsoncodes true } {2 buffett true }]
+INFO	2025/06/09 11:10:52 chat.go:82: Message sent to client
+INFO	2025/06/09 11:10:52 notifications.go:69: Message recieved
+INFO	2025/06/09 11:10:55 chat.go:82: Message sent to client
+INFO	2025/06/09 11:10:55 notifications.go:69: Message recieved
+INFO	2025/06/09 11:10:56 chat.go:82: Message sent to client
+INFO	2025/06/09 11:10:56 notifications.go:69: Message recieved
+INFO	2025/06/09 11:11:01 chat.go:82: Message sent to client
+INFO	2025/06/09 11:11:01 notifications.go:69: Message recieved
+INFO	2025/06/09 11:11:04 chat.go:82: Message sent to client
+INFO	2025/06/09 11:11:04 notifications.go:69: Message recieved
+INFO	2025/06/09 11:11:06 chat.go:82: Message sent to client
+INFO	2025/06/09 11:11:06 notifications.go:69: Message recieved
+INFO	2025/06/09 11:11:54 chat.go:82: Message sent to client
+INFO	2025/06/09 11:11:54 notifications.go:69: Message recieved
+INFO	2025/06/09 11:11:56 chat.go:82: Message sent to client
+INFO	2025/06/09 11:11:56 notifications.go:69: Message recieved
+INFO	2025/06/09 11:11:57 chat.go:82: Message sent to client
+INFO	2025/06/09 11:11:57 notifications.go:69: Message recieved
+INFO	2025/06/09 11:11:59 chat.go:82: Message sent to client
+INFO	2025/06/09 11:11:59 notifications.go:69: Message recieved
+INFO	2025/06/09 14:35:31 main.go:23: database initialized successfully
+INFO	2025/06/09 14:35:31 main.go:39: Server starting on port http://localhost:8080/
+INFO	2025/06/23 17:08:43 main.go:23: database initialized successfully
+INFO	2025/06/23 17:08:43 main.go:39: Server starting on port http://localhost:8080/
+INFO	2025/06/23 17:09:42 notifications.go:309: [{1 robinsoncodes false } {2 buffett true }]
+INFO	2025/06/23 17:09:42 notifications.go:309: [{1 robinsoncodes false } {2 buffett true }]
